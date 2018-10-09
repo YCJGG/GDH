@@ -29,3 +29,4 @@ to be presented on [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/ht
  title = {Generative Domain-Migration Hashing for Sketch-to-Image Retrieval},
  year = {2018}
 }
+
