@@ -5,10 +5,10 @@ Due to the new term beginning, I'm really busy these days. The readMe file and m
 # Generative Domain Migration Hashing for Sketch-to-Image Retrieval
 ![alt tag](https://github.com/YCJGG/GDH/blob/master/GDH.jpg)
 
-- [**Generative Domain Migration Hashing for Sketch-to-Image Retrieval**]
+- [**Generative Domain Migration Hashing for Sketch-to-Image Retrieval**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jingyi_Zhang_Generative_Domain-Migration_Hashing_ECCV_2018_paper.pdf)
 - by Jingyi Zhang, Fumin Shen, Li Liu, Fan Zhu, Mengyang Yu, Ling Shao, Heng Tao Shen, Luc Van Gool
 
-to be presented on [CVPR 2017](http://cvpr2017.thecvf.com/) spotlight section. This work focuses on fast sketch-based image retrieval (SBIR) using binary codes.
+to be presented on [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/html/) poster section. This work focuses on fast sketch-based image retrieval (SBIR) using binary codes.
 
 
 
