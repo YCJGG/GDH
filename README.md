@@ -30,3 +30,6 @@ to be presented on [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/ht
  year = {2018}
 }
 
+## CONTACT ##
+If you have any question, feel free to contact me:
+EMAIL: jgg_jingyizhang@foxmail.com
