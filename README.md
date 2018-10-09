@@ -2,6 +2,10 @@ This is the source code for the ECCV work "Generative domain-migration hashing f
 
 Due to the new term beginning, I'm really busy these days. The readMe file and model file will come soon.
 
+# Generative Domain Migration Hashing for Sketch-to-Image Retrieval
+![alt tag](https://github.com/YCJGG/GDH/blob/master/poster.pdf)
+
+
 ReadME File
 This is a hash work for sketch based image retrieval.
 
