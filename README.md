@@ -22,7 +22,7 @@ to be presented on [CVPR 2017](http://cvpr2017.thecvf.com/) spotlight section. T
 
 
 
-## cite ##
+## CITE ##
 @inproceedings{'zhang2018eccv',
  author = {Jingyi Zhang and Fumin Shen and Li Liu and Fan Zhu and Mengyang Yu and Ling Shao and Heng Tao Shen and Luc Van Gool},
  booktitle = {Proceeding of European Conference on Computer Vision (ECCV)},
