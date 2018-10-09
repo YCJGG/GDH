@@ -22,7 +22,7 @@ to be presented on [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/ht
 
 
 
-## cite ##
+## CITE ##
 @inproceedings{'zhang2018eccv',
  author = {Jingyi Zhang and Fumin Shen and Li Liu and Fan Zhu and Mengyang Yu and Ling Shao and Heng Tao Shen and Luc Van Gool},
  booktitle = {Proceeding of European Conference on Computer Vision (ECCV)},
